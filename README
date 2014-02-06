@@ -1,7 +1,7 @@
 "Hello World!"
 
-This is a third test.
-
-To update is necessary...
-
-First change...
+To update directory files:
+1 - Edit the file...
+2 - git add "the file"
+3 - git commit -m 'number of commit'
+4 - git push origin master
