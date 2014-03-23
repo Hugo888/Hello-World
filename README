@@ -1,0 +1,18 @@
+"Hello World!"
+
+Create a repository
+1 - Make a new repository on the site with the same name as in your computer
+2 - mkdir ~/"Name of directory"
+3 - cd ~/"Name of directory"
+4 - git init
+5 - touch "name of the file"
+6 - git add "name of the file"
+7 - git commit -m "'number' commit"
+8 - git remote add origin https://github.com/username/Name of directory.git
+9 - git push origin master
+
+To update directory files:
+1 - Edit the file...
+2 - git add "the file"
+3 - git commit -m 'number of commit'
+4 - git push origin master
